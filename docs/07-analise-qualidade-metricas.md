@@ -30,4 +30,4 @@ it('should calculate tax correctly', () => {
 
 ---
 
-Próximo: [Testes E2E em Sistemas Legados](docs/08-testes-e2e-legado.md)
+Próximo: [Testes E2E em Sistemas Legados](08-testes-e2e-legado.md)
