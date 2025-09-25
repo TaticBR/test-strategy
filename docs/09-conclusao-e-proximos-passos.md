@@ -35,6 +35,18 @@ Com a implementação completa desta metodologia, espera-se:
 
 ---
 
+## Exemplos Práticos
+
+Para complementar este guia, você pode conferir exemplos reais de testes implementados nos arquivos do diretório [`/examples`](https://github.com/TaticBR/test-strategy/blob/main/examples/example.service.spec.ts).
+
+Esses exemplos mostram:
+- Testes de controllers e services com Jest e NestJS
+- Uso de mocks e stubs
+- Estratégias para testar diferentes cenários (sucesso, erros, atualizações)
+- Boas práticas de organização de testes
+
+---
+
 ## Referências
 
 * **NestJS Testing Documentation**. Disponível em: [https://docs.nestjs.com/fundamentals/testing](https://docs.nestjs.com/fundamentals/testing). Acesso em: 30 de Abril de 2025.
